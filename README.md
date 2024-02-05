@@ -10,3 +10,10 @@
 
 ## Завдання 2
 Візуалізуйте результат роботи кластеризації. Для випадку з `mnist` датасетом, вам потрібно ще скористатись алгоримтом `PCA` щоб зменшити розмірність вашим даних до 2-вимірного варіанту.
+
+
+# Результат
+
+- [goit_python_ds_hw_06.ipynb](goit_python_ds_hw_06.ipynb)
+
+- [Collab](https://colab.research.google.com/drive/1SzdJuZXEjNaTOgB4evRvrxaxKQ7QD9WK?usp=sharing)
