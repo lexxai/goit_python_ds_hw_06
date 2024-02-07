@@ -24,7 +24,7 @@
 
 ![](cluster_img.jpg)
 
-#### PCA, 114 ознак, k=13
+#### PCA (0.95), 114 ознак, k=13
 
 ![](cluster_img_pca.jpg)
 
