@@ -17,3 +17,7 @@
 - [goit_python_ds_hw_06.ipynb](goit_python_ds_hw_06.ipynb)
 
 - [Collab](https://colab.research.google.com/drive/1SzdJuZXEjNaTOgB4evRvrxaxKQ7QD9WK?usp=sharing)
+
+## Резульат розбитя на кластери зорбражень з бази MNIST
+
+![](images-categoty-group.jpg)
