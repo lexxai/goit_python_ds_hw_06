@@ -19,5 +19,10 @@
 - [Collab](https://colab.research.google.com/drive/1SzdJuZXEjNaTOgB4evRvrxaxKQ7QD9WK?usp=sharing)
 
 ## Резульат розбитя на кластери зорбражень з бази MNIST
+### 784 ознак, k=19
 
-![](images-categoty-group.jpg)
+![](cluster_img.jpg)
+
+### PCA, 114 ознак, k=13
+
+![](cluster_img_pca.jpg)
