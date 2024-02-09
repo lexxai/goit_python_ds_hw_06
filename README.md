@@ -15,7 +15,8 @@
 # Результат
 
 - [goit_python_ds_hw_06.ipynb](goit_python_ds_hw_06.ipynb)
-- [Collab](https://colab.research.google.com/drive/1SzdJuZXEjNaTOgB4evRvrxaxKQ7QD9WK?usp=sharing)
+- [Collab goit_python_ds_hw_06.ipynb](https://colab.research.google.com/drive/1SzdJuZXEjNaTOgB4evRvrxaxKQ7QD9WK?usp=sharing)
+- [Collab mnist dataset - clustering.ipynb](https://colab.research.google.com/drive/1H4BcH3HgVvLkkLtb7ynjbbNrF56Vq2XX?usp=sharing)
 
 ## Завдання 1
 
